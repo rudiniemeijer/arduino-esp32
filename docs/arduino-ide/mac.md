@@ -19,5 +19,6 @@ Installation instructions for Mac OS
 
 ```xcode-select --install```
 
+- You might have to add `sudo` before the `git` and `python` commands.
 - Restart Arduino IDE
 
